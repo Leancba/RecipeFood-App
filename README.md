@@ -7,7 +7,6 @@
 
 - React native
 - Expo
-- Expo location
 
 <h2> Plataformas </h2>
 
